@@ -80,4 +80,4 @@ This dashboard provides business stakeholders with clear visibility into profita
 
 ## 📸 Dashboard Preview
 
-![Business Operations Dashboard](test.png)
+![Business Operations Dashboard](Business_Operations_Analytics_Dashboard.png)
